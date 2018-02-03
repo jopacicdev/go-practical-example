@@ -1,1 +1,0 @@
-# go-practical-example
