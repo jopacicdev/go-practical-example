@@ -27,5 +27,7 @@ func handleRequests() {
 func main() {
 	fmt.Println("go api w/ orm")
 
+	InitialMigration()
+
 	handleRequests()
 }
